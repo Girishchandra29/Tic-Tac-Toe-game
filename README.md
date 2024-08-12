@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-game
+This project is a simple implementation of the classic Tic Tac Toe game using JavaScript, HTML, and CSS. The game allows two players to compete against each other by taking turns to place their marks (either "X" or "O") in a 3x3 grid. The goal is to align three of your marks horizontally, vertically, or diagonally.
